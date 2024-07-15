@@ -1,10 +1,3 @@
-![logo](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-# 💫 About Me:
-<div>
-  <p>
- Driven and curious computer science student with a passion for exploring new technologies.<br> I'm actively expanding my skillset in web development, focusing on crafting user-friendly websites and interactive web applications. Additionally, I leverage my design skills to enhance web experiences, while pursuing game development as a creative outlet.
-  </p>
-  <br>
  <img width="400px" src="https://imgs.search.brave.com/ptsI1SMdY1bGFxpcL3-ujOPHuRp9MhqEkian4imrLyQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhLzExNUJK/bGU2TjJBdjBBL2dp/cGh5LmdpZj9jaWQ9/NzkwYjc2MTFlcXk1/dTc0em1xZXN5eXpz/aHhvc2d4d3pya3Fr/am5maTA5ZHVwNGYx/JmVwPXYxX2dpZnNf/c2VhcmNoJnJpZD1n/aXBoeS5naWYmY3Q9/Zw.gif"> 
  </div>
 
